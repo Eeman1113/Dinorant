@@ -1,1 +1,10 @@
-
+cvzone==1.6.1
+gym==0.26.2
+matplotlib==3.7.1
+mss==6.1.0
+numpy==1.25.0
+opencv_python_headless==4.9.0.80
+PyAutoGUI==0.9.53
+PyDirectInput==1.0.4
+pytesseract==0.3.9
+stable_baselines3==2.0.0
